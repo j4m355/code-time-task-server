@@ -1,7 +1,4 @@
 settings = require(__dirname + '/functions/config')
-request = require('superagent')
-exec = require('child_process').exec
-
 express = require('express')
 app = express()
 
