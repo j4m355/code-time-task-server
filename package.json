@@ -1,0 +1,27 @@
+{
+  "name": "code-time-task-server",
+  "version": "0.0.10",
+  "description": "update issues",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "git@github.com:j4m355/code-time-server.git"
+    },
+  "dependencies": {
+    "coffee-script": "~1.4.0",
+    "nconf": "~0.6.7",
+    "underscore" : "*",
+    "superagent" : "*",
+    "express" : "3.x",
+    "redis" : "*"
+  },
+  "bin": {
+    "code-time-server": "./bin/code-time-server"
+    },
+  "repository": "",
+  "author": "j4m355",
+  "license": "Apache"
+}
