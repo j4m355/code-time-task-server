@@ -19,7 +19,7 @@
     "redis" : "*"
   },
   "bin": {
-    "code-time-server": "./bin/code-time-server"
+    "code-time-task-server": "./bin/code-time-task-server"
     },
   "repository": "",
   "author": "j4m355",
