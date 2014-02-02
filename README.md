@@ -7,11 +7,14 @@
 #####HTTP
 
 ######GET
-	returns all tasks
+	returns all tasks - json array
 ######POST
 	adds single task
+		{"name" :"human-leg"}
+
 ######DELETE
 	deletes all occurances of task by name in list
+		{"name" :"human leg"}
 
 
 
