@@ -1,6 +1,6 @@
 ####To Install
 
-    npm install j4m355/code-time-task-server -g
+    npm install j4m355/code-time-task-server -g  (global is optional...)
 
 
 
