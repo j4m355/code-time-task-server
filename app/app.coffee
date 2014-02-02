@@ -1,5 +1,4 @@
 settings = require(__dirname + '/functions/config')
-_ = require('underscore')
 request = require('superagent')
 exec = require('child_process').exec
 
